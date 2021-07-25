@@ -1,4 +1,6 @@
 body{
+    max-width: 100%;
+    overflow-x: hidden;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -32,8 +34,10 @@ p{
 }
 .client
 {
-    background: #8EC2F2;
+    
 
+    background: #8EC2F2;
+    
 }
 footer{
     
