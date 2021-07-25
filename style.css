@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    width: 1050px;
+    
+}
+
+ .banner{
+    
+    background-image: url(./img/key.jpg);
+    background-repeat: no-repeat;
+    center center fixed;
+    -webkit-background-size: cover;
+     -moz-background-size: cover;
+    -o-background-size: cover;
+   background-size: cover;} 
+} 
+p{
+    color: khaki;
+}
+.organigation {
+    
+        height: 670px;
+    background-color: darkblue;
+    background-color: #252B42;
+}
+.client
+{
+    background: #8EC2F2;
+
+}
+footer{
+    
+}
